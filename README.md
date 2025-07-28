@@ -92,6 +92,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙌 Author
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Abhinav Jangid]
 
 > Want to use this project? Fork it, modify it, and don’t forget to give credit! 🌟
